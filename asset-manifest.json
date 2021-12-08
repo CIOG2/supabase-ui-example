@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Takeout85/supabase-ui-example.git/static/css/main.27b5fdc2.chunk.css",
+    "main.js": "/Takeout85/supabase-ui-example.git/static/js/main.92fd5757.chunk.js",
+    "main.js.map": "/Takeout85/supabase-ui-example.git/static/js/main.92fd5757.chunk.js.map",
+    "runtime-main.js": "/Takeout85/supabase-ui-example.git/static/js/runtime-main.e06aef63.js",
+    "runtime-main.js.map": "/Takeout85/supabase-ui-example.git/static/js/runtime-main.e06aef63.js.map",
+    "static/js/2.8b4d3c41.chunk.js": "/Takeout85/supabase-ui-example.git/static/js/2.8b4d3c41.chunk.js",
+    "static/js/2.8b4d3c41.chunk.js.map": "/Takeout85/supabase-ui-example.git/static/js/2.8b4d3c41.chunk.js.map",
+    "index.html": "/Takeout85/supabase-ui-example.git/index.html",
+    "static/css/main.27b5fdc2.chunk.css.map": "/Takeout85/supabase-ui-example.git/static/css/main.27b5fdc2.chunk.css.map",
+    "static/js/2.8b4d3c41.chunk.js.LICENSE.txt": "/Takeout85/supabase-ui-example.git/static/js/2.8b4d3c41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e06aef63.js",
+    "static/js/2.8b4d3c41.chunk.js",
+    "static/css/main.27b5fdc2.chunk.css",
+    "static/js/main.92fd5757.chunk.js"
+  ]
+}
