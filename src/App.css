@@ -1,38 +1,64 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#root {
+  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-color: #1f1f1f;
 }
 
-.App-link {
-  color: #61dafb;
+::placeholder {
+  color: #1f1f1f;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sbui-typography-title {
+  color: #ffffff;
+}
+
+.logIn {
+  width: 500px;
+  height: auto;
+  background-color: #242424;
+}
+
+.logIn .sbui-formlayout__label {
+  color: #ffffff;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.logIn .logIn__button {
+  width: 500px;
+  margin-top: 20px;
+  font-size: 18px;
+}
+.logIn .logIn__alert {
+  margin-top: 20px;
+
+}
+.logIn .logIn__alert h3 {
+  font-size: 18px;
+}
+
+.logIn .logIn__alert div{
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.logIn  .policy__checkbox span {
+  color: #ffffff;
+}
+
+.logIn .policy__checkbox {
+  margin-top: 20px;
+}
+
+.logIn .policy__link {
+  margin-top: 20px;
+  margin-left: 5px;
+  font-size: 16px;
+}
+
+.logIn .policy {
+  display: flex;
 }
